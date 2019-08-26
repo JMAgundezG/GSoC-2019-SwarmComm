@@ -10,9 +10,10 @@ The project consists in develop a verbal and a non-verbal communications scene e
 
 ## Posts
 
-1. [First post]()
-2. [Implementation of an ePuck robot model in RoboComp]()
-3. [Creation of 2 examples using RoboComp and V-REP]()
+1. [First post](https://github.com/robocomp/web/blob/master/gsoc/2019/jose_manuel_agundez/post01.md)
+2. [Second post](https://github.com/robocomp/web/blob/master/gsoc/2019/jose_manuel_agundez/post02.md)
+3. [Implementation of an ePuck robot model in RoboComp](https://github.com/robocomp/web/blob/master/gsoc/2019/jose_manuel_agundez/post03.md)
+4. [Creation of 2 examples using RoboComp and V-REP](https://github.com/robocomp/web/blob/master/gsoc/2019/jose_manuel_agundez/post04final.md)
 
 
 
