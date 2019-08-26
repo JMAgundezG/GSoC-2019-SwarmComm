@@ -19,7 +19,7 @@ The project consists in develop a verbal and a non-verbal communications scene e
 
 ## Simulator used
 
-V-REP: [http://www.coppeliarobotics.com/](link here)
+V-REP: [link here](http://www.coppeliarobotics.com/)
 
 
 
